@@ -1,3 +1,7 @@
 body{ 
 	backgroud: #111;
 }
+
+p{ 
+	margin: 3px;
+}
